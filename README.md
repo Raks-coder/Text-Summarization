@@ -1,4 +1,6 @@
 
+# TEXT SUMMARIZATION USING FEATURE EXTRACTION
+
 Run `python3 driver.py`
 
 Which passes a list of file paths containing docs into Summarizer:
