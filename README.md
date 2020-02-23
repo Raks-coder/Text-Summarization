@@ -1,8 +1,3 @@
-# Multi-document news article summarizer
-
-Final project for CSCI 4930 (Machine Learning).
-
-## Usage
 
 Run `python3 driver.py`
 
